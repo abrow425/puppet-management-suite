@@ -1,0 +1,33 @@
+{
+  "name": "cleaneriser-web",
+  "description": "Web client for retrieving gifting 'transfer cards' out of the inventory of NationStates nations.",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "abrow425",
+    "email": "abrow425@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abrow425/cleaneriser-web.git"
+  },
+  "devDependencies": {
+    "browserify": "^14.5.0",
+    "del": "^3.0.0",
+    "gulp": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "tsify": "^3.0.4",
+    "typescript": "^2.6.2",
+    "uglify-js": "^3.2.2",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "@types/bootstrap": "^4.3.1",
+    "@types/jquery": "^3.3.33",
+    "bootstrap": "^4.4.1",
+    "es6-promise": "^4.2.2",
+    "jquery": "^3.5.0",
+    "nsapi": "^0.1.14"
+  }
+}
